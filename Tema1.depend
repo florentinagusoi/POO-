@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1521041031 source:c:\users\crina\desktop\poo\tema1\main.cpp
+	<iostream>
+	"Set.h"
+
+1521041031 source:c:\users\crina\desktop\poo\tema1\src\set.cpp
+	"Set.h"
+	<iostream>
+
+1521034147 c:\users\crina\desktop\poo\tema1\include\set.h
+
+1521367256 source:c:\users\flori\desktop\tema1\tema1\main.cpp
+	<iostream>
+	"Set.h"
+
+1521363777 c:\users\flori\desktop\tema1\tema1\include\set.h
+	<iostream>
+
+1521363804 source:c:\users\flori\desktop\tema1\tema1\src\set.cpp
+	"Set.h"
+	<iostream>
+
